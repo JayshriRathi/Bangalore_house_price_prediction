@@ -1,4 +1,4 @@
-# Banglore-Housing-Price-Prediction
+# Bengaluru-Housing-Price-Prediction
 
 # 🏡 House Price Prediction
 
